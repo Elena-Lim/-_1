@@ -26,7 +26,3 @@ while run:
 print('До свидания')
 
 
-command = input("Введите команду: ")
-x = "exit"
-if command == x:
-    print("Спасибо за использование! До свидания!")
